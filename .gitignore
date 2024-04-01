@@ -1,0 +1,39 @@
+# Ignored files and folders
+ignore/
+# Byte-compiled and optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+# Packaging and distribution files
+build/
+dist/
+sdist/
+lib/
+lib64/
+parts/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+downloads/
+develop-eggs/
+eggs/
+.eggs/
+.installed.cfg
+.Python
+*.egg-info/
+*.egg
+# Unit tests and coverage files
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
